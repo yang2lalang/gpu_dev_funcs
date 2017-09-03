@@ -844,3 +844,4 @@ void CALLowlqn_constrain_searchdir(float* d, float* pg, int start,  int end )
 
 
 
+pseudo_gradient
